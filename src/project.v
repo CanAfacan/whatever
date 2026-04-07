@@ -1,5 +1,3 @@
-
-
 /*
  * Copyright (c) 2024 Uri Shaked
  * SPDX-License-Identifier: Apache-2.0
@@ -68,5 +66,3 @@ module tt_um_CanAfacan_vga(
   wire _unused_ok_ = &{moving_x, pix_y};
 
 endmodule
-
-
